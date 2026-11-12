@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "faceMatches": true,
+    "serverError": false,
+    "latencyMs": 600
+  },
+  "projects": [
+    {
+      "id": "PRJ-HRT2-TB",
+      "name": "Sobha Hartland II, Tower B",
+      "wifiBssids": ["3c:84:6a:1f:22:b0", "3c:84:6a:1f:22:b1"],
+      "shift": { "start": "07:00", "end": "17:00" }
+    }
+  ],
+  "employees": [
+    {
+      "id": "SCL10234",
+      "employeeId": "SCL10234",
+      "name": "Ravi Kumar",
+      "trade": "Steel fixer",
+      "faceEnrolled": true,
+      "projectId": "PRJ-HRT2-TB"
+    }
+  ],
+  "sessions": [],
+  "attendance": [],
+  "seeded": []
+}
